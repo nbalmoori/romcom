@@ -6,25 +6,21 @@ There is an insatiable demand for romance novels and the publishing industry can
 
 ## How To Use RomCom
 
-<!-- Need to update for deployed link -->
-Users can access RomCom by first going to our website, {deploy link}.  Here, users can:
+Users can access RomCom by first going to our website, which can be found [here](https://nbalmoori.github.io/romcom/).  Here, users can:
 - Generate a randomized book cover with various images and titles
 - Create their own book covers
 - Save covers for future reference
 
-<!-- Add Images/GIFs, future additions, etc if we have time -->
+Here's a preview of the website:
+
+Home Page:
+Screen Shot 2022-02-12 at 2.40.02 PM
+
+Saved Covers Page:
+Screen Shot 2022-02-12 at 2.40.41 PM
 
 
-
-
-<!-- Below are the boilerplate instructions - delete before submitting project -->
-
-<!-- ## Set Up
-1. ONE teammate: fork this boilerplate repository
-2. Clone down your new, forked repo
-3. cd into the repository
-4. Open it in your text editor
-5. View the project in the browser by running open index.html in your terminal
-6. Add all project partners and your assigned instructor as collaborators on the repository
-
-The project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/romcom-pair.html) -->
+Future additions to this applications can be:
+- Be able to delete a saved cover from your saved covers page
+- Be able to move around the order of the saved covers page
+- Be able to display error messages for any issues with user inputs to the form
