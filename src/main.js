@@ -165,3 +165,29 @@ function createNewCover(){
   taglineDescriptor1.innerText = firstDescriptorInput.value;
   taglineDescriptor2.innerText = secondDescriptorInput.value;
 };
+
+function saveCurrentCover(){
+  //currentCover = new Cover(coverImage.src, mainTitle.innerText, taglineDescriptor1.innerText, taglineDescriptor2.innerText);
+  if (savedCovers.length > 0 && !savedCovers.includes(currentCover)){
+    savedCovers.push(currentCover);
+  }
+  if (savedCovers.length === 0){
+    savedCovers.push(currentCover);
+  }
+};
+
+function showAllSavedCovers(){
+  var htmlAdd = '';
+  for (var i = 0; i < savedCovers.length; i++){
+    htmlAdd += `<section class="mini-cover">
+    <img class="cover-image" src=${savedCovers[i].cover}>
+    <h2 class="cover-title">${savedCovers[i].title}</h2>
+    <h3 class="tagline">A tale of <span class="tagline-1">${savedCovers[i].tagline1}</span> and <span class="tagline-2">${savedCovers[i].tagline2}</span></h3>
+    <img class="price-tag" src="./assets/price.png">
+    <img class="overlay" src="./assets/overlay.png">
+    </section>`;
+  }
+  savedCoverViewSection.innerHTML = htmlAdd;
+  console.log(htmlAdd);
+};
+
