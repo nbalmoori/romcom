@@ -17,7 +17,7 @@ Home Page:
 
 
 Saved Covers Page:
-
+https://github.com/nbalmoori/romcom/blob/refactor/cleaning-up-code/assets/savedcoverspage.png
 
 
 Future additions to this applications can be:
