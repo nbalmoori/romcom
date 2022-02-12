@@ -14,10 +14,10 @@ Users can access RomCom by first going to our website, which can be found [here]
 Here's a preview of the website:
 
 Home Page:
-
+![Home Page](https://github.com/nbalmoori/romcom/blob/refactor/cleaning-up-code/assets/homepage.png)
 
 Saved Covers Page:
-https://github.com/nbalmoori/romcom/blob/refactor/cleaning-up-code/assets/savedcoverspage.png
+![Saved Covers Page](https://github.com/nbalmoori/romcom/blob/refactor/cleaning-up-code/assets/savedcoverspage.png)
 
 
 Future additions to this applications can be:
