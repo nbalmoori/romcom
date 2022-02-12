@@ -14,10 +14,10 @@ Users can access RomCom by first going to our website, which can be found [here]
 Here's a preview of the website:
 
 Home Page:
-Screen Shot 2022-02-12 at 2.40.02 PM
+
 
 Saved Covers Page:
-Screen Shot 2022-02-12 at 2.40.41 PM
+
 
 
 Future additions to this applications can be:
